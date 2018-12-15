@@ -1,0 +1,3 @@
+[submodule "alarm-android"]
+	path = alarm-android
+	url = git@github.com:hereisderek/alarm-android.git
